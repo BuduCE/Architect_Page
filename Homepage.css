@@ -1,0 +1,88 @@
+.head{
+    display: inline-block;
+    width: 1300px;
+    height: fit-content;
+}
+.head_search{
+    border:0;
+    border-style: none;
+}
+button{
+    background-color: #f2aa4c;
+    padding: 8px 32px;
+    border: 0;
+    border-style: none;
+    border-radius: 5px;
+}
+.menu{
+    text-decoration: none;
+    color: black;
+    margin-left: 40px;
+}
+.head_search{
+    float: right;
+}
+.one{
+    margin-left: 70px;
+    width: 600px;
+    font-size: 50px;
+    font-family: NewYorkExtraLarge;
+    height: fit-content;
+}
+.two{
+    margin-left: 70px;
+    display: inline-block;
+    width: 800px;
+    height: fit-content;
+}
+.twoa{
+    width: 250px;
+}
+/*.twob,img{
+    width: 850px;
+    height: 500px;
+}*/
+.twoa,.twob{
+    width: 200px;
+    height: fit-content;
+    border: 0;
+    margin-left: 40px;
+    float: left;
+}
+.three{
+    margin-left: 500px;
+    font-size: 25px;
+}
+.four{
+    margin-left: 70px;
+}
+.five{
+    margin-left: 70px;
+    font-size: 25px;
+}
+.six{
+    margin-left: 70px;
+}
+#footer{
+    background-color: whitesmoke;
+    width: 100%;
+    bottom: 0;
+    
+}
+.seven{
+    margin-left: 70px;
+    font-size: 25px;
+}
+#eightone{
+    width: 50px;
+    height: fit-content;
+    border: 0;
+    float: right;
+    margin-right: 15px;
+}
+#eighttwo{
+    width: 400px;
+    border: 0;
+    float:right;
+    margin-right: 500px;
+}
